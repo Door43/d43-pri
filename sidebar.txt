@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pri:home|Door43 (pri)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pri|d43-pri repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pri/archive/master.zip|d43-pri.zip]]
+
+**Recent Changes**
+{{changes>ns = pri}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pri|Ethnologue data]]
+
